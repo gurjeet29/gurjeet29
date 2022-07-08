@@ -3,3 +3,4 @@
 - 🌱 I’m currently seeking job as an entry-level data scientist position.
 - 💞️ I’m looking to collaborate on Python Projects and ML, DL, NLP, Data Science Projects
 - 📫 How to reach me: https://www.instagram.com/gurjeet_singh29/
+- 📃 Medium Page: https://medium.com/@gurjeetsingh2000
