@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @gurjeet29
-- 👀 I’m interested in Robotics and IOT and how to use them in ML, AI and Data Science
-- 🌱 I’m currently seeking job as an entry-level data scientist position.
-- 💞️ I’m looking to collaborate on Python Projects and ML, DL, NLP, Data Science Projects
-- 📫 How to reach me: https://www.instagram.com/gurjeet_singh29/
-- 📃 Medium Page: https://medium.com/@gurjeetsingh2000
+<!--### Hi there 👋-->
+
+## :chart: Stats
+
+<div align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=gurjeet29&show_icons=true&hide_border=false&count_private=true&theme=react" alt="Gurjeet Singh's GitHub Stats">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjeet29&show_icons=true&hide_border=false&langs_count=10&layout=compact&theme=react" alt="Gurjeet Singh's GitHub Language Stats">
+</div>
+
+## :computer: Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeet29&theme=buefy" alt="Gurjeet Singh's contributions"/>
+</p>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gurjeet29" alt=" Visitors ">
+</div>
+
+## :link: Links
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gurjeet29/)
+[![Linked-In](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gurjeetsingh29/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=#d16c06)](https://www.instagram.com/gurjeet_singh29/)
+[![Instagram](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@gurjeetsingh2000)
