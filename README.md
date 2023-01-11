@@ -13,6 +13,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeet29&theme=buefy" alt="Gurjeet Singh's contributions"/>
 </p>
 
+<a href=#><img src="contributions.svg"></a>
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gurjeet29/count.svg" />
+</p> -->
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=gurjeet29" alt=" Visitors ">
 </div>
