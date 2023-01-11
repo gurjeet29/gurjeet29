@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurjeet29&theme=buefy" alt="Gurjeet Singh's contributions"/>
 </p>
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
 <!-- <p align="center"> 
   Visitor count<br>
